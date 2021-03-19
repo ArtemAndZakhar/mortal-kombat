@@ -6,6 +6,9 @@ body{
         background: #010202;
         font-family: 'Source Sans Pro', sans-serif;
 }
+a {
+text-decoration: none;
+}
 .header{
     width: 90%;
     max-width: 1146px;
@@ -96,6 +99,7 @@ padding: 1px 5px;
 .button-text{
     margin-left: 10px;
     vertical-align: text-bottom;
+
 }
 @media (max-width: 1200px) {
     /* .app{
